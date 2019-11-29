@@ -16,6 +16,7 @@
 		437DDD46239055C600BE6266 /* swift_hello_worldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437DDD45239055C600BE6266 /* swift_hello_worldTests.swift */; };
 		437DDD51239055C600BE6266 /* swift_hello_worldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437DDD50239055C600BE6266 /* swift_hello_worldUITests.swift */; };
 		437DDD6323905A1500BE6266 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437DDD6223905A1500BE6266 /* CircleImage.swift */; };
+		437DDD6723917E7400BE6266 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437DDD6623917E7400BE6266 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		437DDD50239055C600BE6266 /* swift_hello_worldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_hello_worldUITests.swift; sourceTree = "<group>"; };
 		437DDD52239055C600BE6266 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		437DDD6223905A1500BE6266 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		437DDD6623917E7400BE6266 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		437DDD2D239055B700BE6266 /* swift-hello-world */ = {
 			isa = PBXGroup;
 			children = (
+				437DDD6623917E7400BE6266 /* MapView.swift */,
 				437DDD6223905A1500BE6266 /* CircleImage.swift */,
 				437DDD2E239055B700BE6266 /* AppDelegate.swift */,
 				437DDD30239055B700BE6266 /* SceneDelegate.swift */,
@@ -272,6 +275,7 @@
 			files = (
 				437DDD2F239055B700BE6266 /* AppDelegate.swift in Sources */,
 				437DDD6323905A1500BE6266 /* CircleImage.swift in Sources */,
+				437DDD6723917E7400BE6266 /* MapView.swift in Sources */,
 				437DDD31239055B700BE6266 /* SceneDelegate.swift in Sources */,
 				437DDD33239055B700BE6266 /* ContentView.swift in Sources */,
 			);
